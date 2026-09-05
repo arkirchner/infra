@@ -1,0 +1,13 @@
+# Environment files
+.envrc
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform.lock.hcl
+.terraform/
+.talos_image/
+
+# State archive
+.state-archive/
